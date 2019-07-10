@@ -57,4 +57,7 @@ cd ../PoseEstimateTests
 pytest --junitxml=results.xml  --dataset=dataset0 --alluredir=my_allure_results
 allure serve my_allure_results/
 ```
+* Sample report after last command
+
+![Sample Report](Sample_Report.png)
 
