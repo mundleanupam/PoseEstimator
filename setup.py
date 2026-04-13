@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     install_requires=[
         "numpy==1.16.4",
-        "pytest==4.5.0",
+        "pytest==9.0.3",
         "allure-pytest==2.7.0"
     ],
     packages=setuptools.find_packages(),
